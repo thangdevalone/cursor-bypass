@@ -15,7 +15,7 @@ Script này giúp bạn thay đổi tham số `country` trong request gửi đ�
 
 ### ❌ 2. Nếu bạn đã từng xác minh
 - Hãy **đăng xuất** khỏi tài khoản SheerID nếu thấy thông báo đã đăng nhập trước đó.
-- Sau đó, bấm lại nút **"Verify Status"**, chọn **"Log in again"**.
+- Sau đó, bấm lại nút **"Verify Status"**, chọn **"Login"**.
 
 ---
 
